@@ -1,0 +1,10 @@
+C:\Users\Leonardo\source\repos\Fufrus Simulator\bin\Debug\Fufrus Simulator.exe.config
+C:\Users\Leonardo\source\repos\Fufrus Simulator\bin\Debug\Fufrus Simulator.exe
+C:\Users\Leonardo\source\repos\Fufrus Simulator\bin\Debug\Fufrus Simulator.pdb
+C:\Users\Leonardo\source\repos\Fufrus Simulator\obj\Debug\Fufrus Simulator.csproj.AssemblyReference.cache
+C:\Users\Leonardo\source\repos\Fufrus Simulator\obj\Debug\Fufrus_Simulator.Form1.resources
+C:\Users\Leonardo\source\repos\Fufrus Simulator\obj\Debug\Fufrus_Simulator.Properties.Resources.resources
+C:\Users\Leonardo\source\repos\Fufrus Simulator\obj\Debug\Fufrus Simulator.csproj.GenerateResource.cache
+C:\Users\Leonardo\source\repos\Fufrus Simulator\obj\Debug\Fufrus Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\Fufrus Simulator\obj\Debug\Fufrus Simulator.exe
+C:\Users\Leonardo\source\repos\Fufrus Simulator\obj\Debug\Fufrus Simulator.pdb
